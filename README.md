@@ -2,4 +2,6 @@
 
 # titulo
 
-objetivos
+ob general 
+
+Ob Especifico
